@@ -1,0 +1,3 @@
+# traductor.sh
+
+Traductor opensource
